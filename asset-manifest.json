@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LeaAdmin/static/css/main.84572ec3.css",
-    "main.js": "/LeaAdmin/static/js/main.b31ca7cf.js",
+    "main.css": "/LeaAdmin/static/css/main.73ca35bc.css",
+    "main.js": "/LeaAdmin/static/js/main.6bc30e80.js",
     "static/js/453.32493289.chunk.js": "/LeaAdmin/static/js/453.32493289.chunk.js",
     "index.html": "/LeaAdmin/index.html",
-    "main.84572ec3.css.map": "/LeaAdmin/static/css/main.84572ec3.css.map",
-    "main.b31ca7cf.js.map": "/LeaAdmin/static/js/main.b31ca7cf.js.map",
+    "main.73ca35bc.css.map": "/LeaAdmin/static/css/main.73ca35bc.css.map",
+    "main.6bc30e80.js.map": "/LeaAdmin/static/js/main.6bc30e80.js.map",
     "453.32493289.chunk.js.map": "/LeaAdmin/static/js/453.32493289.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84572ec3.css",
-    "static/js/main.b31ca7cf.js"
+    "static/css/main.73ca35bc.css",
+    "static/js/main.6bc30e80.js"
   ]
 }
